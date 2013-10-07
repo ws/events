@@ -113,7 +113,7 @@
 
 **Type:** Hackathon
 
-**Location:** University Of Michigan
+**Location:** Penn College
 
 **Dates:** September 6th-8th, 2013
 
