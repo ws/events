@@ -142,3 +142,15 @@
 **Dates:** October 5th-6th, 2013
 
 **Role:** SendGrid Ambassador
+
+## November
+
+**Event:** HackDuke
+
+**Type:** Hackathon
+
+**Location:** Duke (North Carolina)
+
+**Dates:** October 16th-17th, 2013
+
+**Role:** SendGrid Ambassador
