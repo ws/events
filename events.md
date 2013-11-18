@@ -113,7 +113,7 @@
 
 **Type:** Hackathon
 
-**Location:** Penn College
+**Location:** University of Pennsylvania
 
 **Dates:** September 6th-8th, 2013
 
