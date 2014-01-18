@@ -154,3 +154,17 @@
 **Dates:** October 16th-17th, 2013
 
 **Role:** SendGrid Ambassador
+
+# 2014
+
+## January
+
+**Event:** MHacks
+
+**Type:** Hackathon
+
+**Location:** University of Michigan (Ann Arbor)
+
+**Dates:** January 17th-19th, 2013
+
+**Role:** SendGrid Ambassador
