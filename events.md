@@ -154,3 +154,27 @@
 **Dates:** October 16th-17th, 2013
 
 **Role:** SendGrid Ambassador
+
+# 2014
+
+## January
+**Event:** MHacks
+
+**Type:** Hackathon
+
+**Location:** Detroit, MI
+
+**Dates:** January 17th-19th, 2014
+
+**Role:** SendGrid Ambassador
+
+## April
+**Event:** RocHacks
+
+**Type:** Hackathon
+
+**Location:** University Of Rochester (NY)
+
+**Dates:** April 12th-13th, 2014
+
+**Role:** SendGrid Ambassador
